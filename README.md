@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @maadhusudhan-03
+- 👋 Hi, I’m @madhusudhan-03
 - 👀 I’m interested in ... improving my coding skills
 - 🌱 I’m currently learning ...Python
 - 💞️ I’m looking to collaborate on ...
